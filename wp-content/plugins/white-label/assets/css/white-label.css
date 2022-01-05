@@ -1,0 +1,189 @@
+.white-label-admin .subheading td {
+	padding: 50px 0 0 0;
+}
+
+.white-label-admin .subheading:first-of-type td {
+	padding: 10px 0 0 0;
+}
+
+.white-label-admin .form-table {
+    width: 98%;
+}
+
+.form-table .wl-nested {
+    padding-left: 25px !important;
+}
+
+/*
+.white-label-admin .form-table tr.subheading th {
+	width: 200px !important;
+	display: inline-block;
+}
+
+.white-label-admin .form-table tr.subheading td {
+	width: 100%;
+}
+*/
+
+.white-label-admin .form-table tr.subheading h3 {
+	margin: 0;
+}
+
+h4.white_label-name {
+	margin: 0;
+}
+
+.white_label-wysiwyg {
+    margin-top: 1em;
+}
+
+.white-label-admin .wl-table tr:nth-child(odd) {
+    background-color: #f6f7f7;
+}
+
+.white-label-admin .wl-table thead tr {
+    background-color: #ffffff !important;
+}
+
+.white-label-admin .wl-table td { 
+    padding: 6px 8px;
+}
+
+.white-label-admin .wl-table .wl-center { 
+    text-align: center;
+}
+
+.white_label-upgrade-tab {
+    width: 80%;
+}
+
+.white_label-upgrade-tab h1 {
+    margin-bottom: 0.5em;
+    font-size: 2.25em;
+    font-weight: bold;
+}
+
+.white_label-upgrade-tab h3 {
+    font-size: 1.60em;
+    font-weight: 600;
+    margin: 1.5em 0 0.5em 0;
+}
+
+.white_label-upgrade-tab p {
+    margin-top: 0;
+    font-size: 1.35em;
+}
+
+.white_label-upgrade-tab a {
+    font-weight: 700; color: #0052cc;
+}
+
+.white_label-upgrade-tab .button-primary {
+    width: 60%; margin: 1em 20%; padding: 5px 10px; background: #0052cc; font-size: 1.15em; font-weight: 700; border-color: #0052cc; color: #fff; text-align:center;
+}
+
+a.button.white_label-check-license {
+    padding: 5px 15px;
+	height: 38px;
+}
+
+.white_label-depth-0 {
+    font-weight: bold;
+}
+
+.white_label-depth-1 {
+    padding-left: 20px !important;
+}
+
+.white_label-depth-2 {
+    padding-left: 40px !important;
+}
+
+.white_label-depth-3 {
+    padding-left: 60px !important;
+}
+
+.white_label-depth-4 {
+    padding-left: 80px !important;
+}
+
+.white_label-depth-5 {
+    padding-left: 100px !important;
+}
+
+.white_label-metabox a, .white_label-metabox a:hover {
+    font-weight: 700;
+    color: #0052cc;
+}
+
+.white_label-preview-box {
+    display: none;
+}
+
+.white_label-metabox .inside h3 {
+    margin-bottom: 0.25em;
+}
+
+.white_label-metabox .inside ul {
+    margin: 0 30px 1.5em 30px; list-style: initial;
+}
+
+.white_label-metabox .inside .button-white_label, .white_label-metabox .inside .button-white_label:hover {
+    width: 80%; margin: 0 10%; padding: 5px 10px; background: #0052cc; font-size: 1.15em; font-weight: 700; border-color: #0052cc; color: #fff; text-align:center;
+}
+
+.white_label-metabox .inside p {
+    margin-top: 0;
+}
+
+#wpbody-content .white_label-metabox-wrapper {
+	padding-top: 10px;
+	width: 70%;
+	float: left;
+}
+
+#wpbody-content .white_label-metabox-wrapper .group h2 {
+	display: none;
+}
+
+.white_label-sidebar {
+	width: 30%;
+	float: right;
+	margin-top: 32px;
+	clear: both;
+}
+
+body.rtl .white_label-sidebar {
+    float: left;
+}
+
+.white_label-submit-button {
+	clear: both;
+}
+
+.white_label-tab-description {
+	margin-bottom: 20px;
+}
+
+@media screen and (max-width: 782px) {
+	#wpbody-content .white_label-metabox-wrapper {
+		padding-top: 10px;
+		width: 100%;
+		float: none;
+	}
+
+	.white_label-sidebar {
+		width: 100%;
+		float: none;
+		margin-top: 40px;
+		clear: both;
+	}
+
+	.white_label-metabox {
+		margin-left: 0px;
+	}
+    
+    .white_label-upgrade-tab {
+        width: 100%;
+    }
+}
